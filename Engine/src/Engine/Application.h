@@ -15,7 +15,11 @@ namespace Engine
   
   Application* CreateApplication();
 
+#ifdef ENGINE_PLATFORM_WINDOWS
   HWND hwnd;
+#else
+#endif
+
   bool fullscreen;
   bool running = true;
   bool cursor_hidden;

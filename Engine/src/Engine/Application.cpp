@@ -11,6 +11,7 @@ namespace Engine
   
   void Application::Run()
   {
+#ifdef ENGINE_PLATFORM_WINDOWS
     MSG msg;
     ZeroMemory(&msg, sizeof(MSG));
 
@@ -29,5 +30,8 @@ namespace Engine
 
       SwapBuffers(GetDC(hwnd));
     }
+#else
+
+#endif
   }
 }
