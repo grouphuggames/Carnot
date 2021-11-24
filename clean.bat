@@ -1,5 +1,10 @@
 @echo off
 
-cd build
+cd deps/glew-2.1.0/bin
+del * /S /Q
+cd ../lib
+del * /S /Q
+
+cd ../../../build
 del * /S /Q
 cd ..

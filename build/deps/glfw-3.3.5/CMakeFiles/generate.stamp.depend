@@ -1,0 +1,20 @@
+# CMake generation dependency list for this directory.
+C:/Carnot/deps/glfw-3.3.5/CMakeLists.txt
+C:/Carnot/deps/glfw-3.3.5/cmake_uninstall.cmake.in
+C:/Carnot/deps/glfw-3.3.5/src/glfw3.pc.in
+C:/Carnot/deps/glfw-3.3.5/src/glfw3Config.cmake.in
+C:/Carnot/deps/glfw-3.3.5/src/glfw_config.h.in
+C:/Program Files/CMake/share/cmake-3.20/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindDoxygen.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/WriteBasicConfigVersionFile.cmake

@@ -1,6 +1,6 @@
-#include <Engine.h>
+#include <Carnot.h>
 
-class Game : public Engine::Application
+class Game : public Carnot::Application
 {
 public:
   Game()
@@ -10,7 +10,7 @@ public:
   {}
 };
 
-Engine::Application* Engine::CreateApplication()
+Carnot::Application* Carnot::CreateApplication()
 {
   return new Game();
 }

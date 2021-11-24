@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Carnot/Engine/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPackageMessage.cmake

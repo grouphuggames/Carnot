@@ -1,6 +1,6 @@
-#include <Engine.h>
+#include <Carnot.h>
 
-class Editor : public Engine::Application
+class Editor : public Carnot::Application
 {
 public:
   Editor()
@@ -10,7 +10,9 @@ public:
   {}
 };
 
-Engine::Application* Engine::CreateApplication()
+Carnot::Application* Carnot::CreateApplication()
 {
+  Carnot::fullscreen = false;
+  Carnot::app_name = "Carnot Editor";
   return new Editor();
 }
